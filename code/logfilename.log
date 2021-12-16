@@ -1,0 +1,246 @@
+INFO:root:basin ID 22 processed in seconds: 9.765040874481201
+INFO:root:basin ID 23 processed in seconds: 6.112119913101196
+INFO:root:basin ID 22 processed in seconds: 25.408195972442627
+WARNING:googleapiclient.http:Sleeping 1.18 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.23 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.14 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 8.11 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.34 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 0.06 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 0.66 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 12.99 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 4.96 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+INFO:root:basin ID 920 processed in seconds: 1.445552110671997
+WARNING:googleapiclient.http:Sleeping 0.90 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 3.26 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.72 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 11.06 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.77 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 3.47 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 4.59 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 12.40 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 5.15 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.85 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 3.83 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 7.56 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 5.85 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.38 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 0.50 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.86 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 6.63 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 0.63 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 17.30 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+INFO:root:basin ID 920 processed in seconds: 1.2750167846679688
+INFO:root:basin ID 929 processed in seconds: 11.295716047286987
+INFO:root:basin ID 915 processed in seconds: 4.37439489364624
+INFO:root:basin ID 925 processed in seconds: 2.846299886703491
+INFO:root:basin ID 920 processed in seconds: 1.1585700511932373
+INFO:root:basin ID 929 processed in seconds: 1.469071865081787
+INFO:root:basin ID 915 processed in seconds: 1.4633238315582275
+INFO:root:basin ID 925 processed in seconds: 1.1196069717407227
+WARNING:googleapiclient.http:Sleeping 1.04 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 3.16 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 7.91 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 15.81 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.07 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+INFO:root:basin ID 920 processed in seconds: 1.720905065536499
+INFO:root:basin ID 929 processed in seconds: 1.443406105041504
+INFO:root:basin ID 915 processed in seconds: 1.4595060348510742
+INFO:root:basin ID 925 processed in seconds: 1.1390581130981445
+WARNING:googleapiclient.http:Sleeping 1.97 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.79 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.52 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 13.71 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+INFO:root:basin ID 910 processed in seconds: 38.491989850997925
+INFO:root:basin ID 907 processed in seconds: 8.422631740570068
+INFO:root:basin ID 922 processed in seconds: 3.1732161045074463
+WARNING:googleapiclient.http:Sleeping 0.16 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.11 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 5.49 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.39 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 30.13 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+INFO:root:basin ID 920 processed in seconds: 1.263035774230957
+INFO:root:basin ID 929 processed in seconds: 1.779158115386963
+INFO:root:basin ID 915 processed in seconds: 1.69895601272583
+INFO:root:basin ID 925 processed in seconds: 1.4046237468719482
+INFO:root:basin ID 910 processed in seconds: 1.86946702003479
+INFO:root:basin ID 907 processed in seconds: 1.2316441535949707
+INFO:root:basin ID 922 processed in seconds: 1.033402919769287
+WARNING:googleapiclient.http:Sleeping 1.00 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.48 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 6.84 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 3.60 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 0.42 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.12 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 2.97 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 7.80 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 15.74 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 17.44 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.37 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 3.40 seconds before retry 2 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 1.54 seconds before retry 3 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 8.71 seconds before retry 4 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+WARNING:googleapiclient.http:Sleeping 4.35 seconds before retry 5 of 5 for request: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json, after 429
+INFO:root:basin ID 1911 processed in seconds: 15.606224775314331
+INFO:root:basin ID 1917 processed in seconds: 12.527734994888306
+INFO:root:basin ID 1984 processed in seconds: 11.598825931549072
+INFO:root:basin ID 1981 processed in seconds: 1.5771420001983643
+INFO:root:basin ID 1930 processed in seconds: 2.1235461235046387
+INFO:root:basin ID 1979 processed in seconds: 1.8604328632354736
+INFO:root:basin ID 1834 processed in seconds: 4.203200101852417
+INFO:root:basin ID 1940 processed in seconds: 1.715083122253418
+INFO:root:basin ID 1840 processed in seconds: 4.9303297996521
+INFO:root:basin ID 1836 processed in seconds: 1.9514789581298828
+INFO:root:basin ID 1848 processed in seconds: 2.178586006164551
+INFO:root:basin ID 1844 processed in seconds: 2.9087319374084473
+INFO:root:basin ID 1851 processed in seconds: 2.987783908843994
+INFO:root:basin ID 1841 processed in seconds: 2.0841829776763916
+INFO:root:basin ID 1957 processed in seconds: 1.687237024307251
+INFO:root:basin ID 1931 processed in seconds: 1.9588260650634766
+INFO:root:basin ID 1911 processed in seconds: 30.20411229133606
+INFO:root:basin ID 1917 processed in seconds: 22.556736946105957
+INFO:root:basin ID 1984 processed in seconds: 22.383448839187622
+INFO:root:basin ID 1981 processed in seconds: 4.926213026046753
+INFO:root:basin ID 1930 processed in seconds: 4.636098861694336
+INFO:root:basin ID 1979 processed in seconds: 4.536822080612183
+INFO:root:basin ID 1834 processed in seconds: 7.406259298324585
+INFO:root:basin ID 1940 processed in seconds: 5.051850080490112
+INFO:root:basin ID 1840 processed in seconds: 9.968050003051758
+INFO:root:basin ID 1836 processed in seconds: 6.405009746551514
+INFO:root:basin ID 1848 processed in seconds: 6.154170274734497
+INFO:root:basin ID 1844 processed in seconds: 6.899927139282227
+INFO:root:basin ID 1851 processed in seconds: 8.628973722457886
+INFO:root:basin ID 1841 processed in seconds: 5.382188081741333
+INFO:root:basin ID 1957 processed in seconds: 4.396651029586792
+INFO:root:basin ID 1931 processed in seconds: 5.991123914718628
+INFO:root:basin ID 1932 processed in seconds: 6.360549211502075
+INFO:root:basin ID 1947 processed in seconds: 13.62962794303894
+INFO:root:basin ID 1972 processed in seconds: 6.124245882034302
+INFO:root:basin ID 1846 processed in seconds: 12.487935066223145
+INFO:root:basin ID 1835 processed in seconds: 7.707028388977051
+INFO:root:basin ID 1839 processed in seconds: 7.07043194770813
+INFO:root:basin ID 1977 processed in seconds: 10.942363023757935
+INFO:root:basin ID 1843 processed in seconds: 5.8499839305877686
+INFO:root:basin ID 1838 processed in seconds: 6.375952959060669
+INFO:root:basin ID 1983 processed in seconds: 5.558913707733154
+INFO:root:basin ID 1915 processed in seconds: 5.778365850448608
+INFO:root:basin ID 1916 processed in seconds: 6.08026123046875
+INFO:root:basin ID 1948 processed in seconds: 6.16387677192688
+INFO:root:basin ID 1847 processed in seconds: 17.442328214645386
+INFO:root:basin ID 1858 processed in seconds: 12.663918256759644
+INFO:root:basin ID 1837 processed in seconds: 6.413631200790405
+INFO:root:basin ID 1856 processed in seconds: 7.841341972351074
+INFO:root:basin ID 1899 processed in seconds: 4.972437143325806
+INFO:root:basin ID 1958 processed in seconds: 9.427255153656006
+INFO:root:basin ID 1922 processed in seconds: 7.809071063995361
+INFO:root:basin ID 1936 processed in seconds: 12.382537841796875
+INFO:root:basin ID 1950 processed in seconds: 5.1597771644592285
+INFO:root:basin ID 1963 processed in seconds: 5.974138259887695
+INFO:root:basin ID 1853 processed in seconds: 12.666819095611572
+INFO:root:basin ID 1862 processed in seconds: 8.490454912185669
+INFO:root:basin ID 1911 processed in seconds: 50.99579191207886
+INFO:root:basin ID 1917 processed in seconds: 33.819077014923096
+INFO:root:basin ID 1984 processed in seconds: 34.643121004104614
+INFO:root:basin ID 1981 processed in seconds: 6.25698709487915
+INFO:root:basin ID 1930 processed in seconds: 12.610780000686646
+INFO:root:basin ID 1979 processed in seconds: 8.86453890800476
+INFO:root:basin ID 1834 processed in seconds: 8.938716173171997
+INFO:root:basin ID 1940 processed in seconds: 6.057127952575684
+INFO:root:basin ID 1840 processed in seconds: 12.02330493927002
+INFO:root:basin ID 1836 processed in seconds: 7.306391954421997
+INFO:root:basin ID 1848 processed in seconds: 6.7011590003967285
+INFO:root:basin ID 1844 processed in seconds: 14.745419025421143
+INFO:root:basin ID 1851 processed in seconds: 16.2774817943573
+INFO:root:basin ID 1841 processed in seconds: 16.15349292755127
+INFO:root:basin ID 1957 processed in seconds: 6.416027069091797
+INFO:root:basin ID 1931 processed in seconds: 6.842442035675049
+INFO:root:basin ID 1932 processed in seconds: 11.85036301612854
+INFO:root:basin ID 1947 processed in seconds: 34.77083706855774
+INFO:root:basin ID 1972 processed in seconds: 6.97029709815979
+INFO:root:basin ID 1846 processed in seconds: 13.972922086715698
+INFO:root:basin ID 1835 processed in seconds: 7.793900966644287
+INFO:root:basin ID 1839 processed in seconds: 7.046161890029907
+INFO:root:basin ID 1977 processed in seconds: 10.411163806915283
+INFO:root:basin ID 1843 processed in seconds: 7.733222961425781
+INFO:root:basin ID 1838 processed in seconds: 7.134131193161011
+INFO:root:basin ID 1983 processed in seconds: 5.442716121673584
+INFO:root:basin ID 1915 processed in seconds: 5.381726026535034
+INFO:root:basin ID 1916 processed in seconds: 5.263385057449341
+INFO:root:basin ID 1948 processed in seconds: 6.581302165985107
+INFO:root:basin ID 1911 processed in seconds: 45.28365206718445
+INFO:root:basin ID 1917 processed in seconds: 32.27355098724365
+INFO:root:basin ID 1984 processed in seconds: 31.841875076293945
+INFO:root:basin ID 1981 processed in seconds: 4.8373308181762695
+INFO:root:basin ID 1930 processed in seconds: 5.0140910148620605
+INFO:root:basin ID 1979 processed in seconds: 4.691481113433838
+INFO:root:basin ID 1834 processed in seconds: 9.316973686218262
+INFO:root:basin ID 1940 processed in seconds: 5.638678073883057
+INFO:root:basin ID 1840 processed in seconds: 12.761430978775024
+INFO:root:basin ID 1836 processed in seconds: 6.527552127838135
+INFO:root:basin ID 1848 processed in seconds: 7.445289850234985
+INFO:root:basin ID 1844 processed in seconds: 8.497276067733765
+INFO:root:basin ID 1851 processed in seconds: 8.087608098983765
+INFO:root:basin ID 1841 processed in seconds: 7.4540321826934814
+INFO:root:basin ID 1957 processed in seconds: 5.5714430809021
+INFO:root:basin ID 1931 processed in seconds: 6.839400053024292
+INFO:root:basin ID 1932 processed in seconds: 7.679663181304932
+INFO:root:basin ID 1947 processed in seconds: 12.869410991668701
+INFO:root:basin ID 1972 processed in seconds: 5.721059083938599
+INFO:root:basin ID 1846 processed in seconds: 11.77734923362732
+INFO:root:basin ID 1835 processed in seconds: 6.918230056762695
+INFO:root:basin ID 1839 processed in seconds: 8.021737098693848
+INFO:root:basin ID 1977 processed in seconds: 13.125964164733887
+INFO:root:basin ID 1843 processed in seconds: 7.027602195739746
+INFO:root:basin ID 1838 processed in seconds: 7.323976278305054
+INFO:root:basin ID 1983 processed in seconds: 5.785236120223999
+INFO:root:basin ID 1915 processed in seconds: 6.261528015136719
+INFO:root:basin ID 1916 processed in seconds: 5.427942991256714
+INFO:root:basin ID 1948 processed in seconds: 7.876765966415405
+INFO:root:basin ID 1847 processed in seconds: 16.943166971206665
+INFO:root:basin ID 1911 processed in seconds: 52.5663800239563
+INFO:root:basin ID 1917 processed in seconds: 34.751518964767456
+INFO:root:basin ID 1984 processed in seconds: 31.719006061553955
+INFO:root:basin ID 1981 processed in seconds: 12.279513835906982
+INFO:root:basin ID 1930 processed in seconds: 6.0063090324401855
+INFO:root:basin ID 1979 processed in seconds: 4.968398094177246
+INFO:root:basin ID 1834 processed in seconds: 9.302112817764282
+INFO:root:basin ID 1940 processed in seconds: 5.101217031478882
+INFO:root:basin ID 1840 processed in seconds: 13.382139205932617
+INFO:root:basin ID 1836 processed in seconds: 12.273301839828491
+INFO:root:basin ID 1848 processed in seconds: 7.026357173919678
+INFO:root:basin ID 1844 processed in seconds: 11.742465019226074
+INFO:root:basin ID 1851 processed in seconds: 13.234491109848022
+INFO:root:basin ID 1841 processed in seconds: 7.042144060134888
+INFO:root:basin ID 1957 processed in seconds: 24.032907009124756
+INFO:root:basin ID 1931 processed in seconds: 11.536465167999268
+INFO:root:basin ID 1932 processed in seconds: 9.182331323623657
+INFO:root:basin ID 1947 processed in seconds: 17.87434697151184
+INFO:root:basin ID 1972 processed in seconds: 7.395428895950317
+INFO:root:basin ID 1846 processed in seconds: 13.617933750152588
+INFO:root:basin ID 1835 processed in seconds: 7.051753282546997
+INFO:root:basin ID 1839 processed in seconds: 6.108466863632202
+INFO:root:basin ID 1977 processed in seconds: 11.640007972717285
+INFO:root:basin ID 1843 processed in seconds: 6.928167819976807
+INFO:root:basin ID 1838 processed in seconds: 8.462819814682007
+INFO:root:basin ID 1983 processed in seconds: 5.398695707321167
+INFO:root:basin ID 1915 processed in seconds: 5.742655038833618
+INFO:root:basin ID 1916 processed in seconds: 6.770207405090332
+INFO:root:basin ID 1948 processed in seconds: 6.799676179885864
+INFO:root:basin ID 1847 processed in seconds: 26.517727851867676
+INFO:root:basin ID 1911 processed in seconds: 47.794378995895386
+INFO:root:basin ID 1917 processed in seconds: 29.083067893981934
+INFO:root:basin ID 1984 processed in seconds: 29.732498168945312
+INFO:root:basin ID 1981 processed in seconds: 6.728138446807861
+INFO:root:basin ID 1930 processed in seconds: 5.2688469886779785
+INFO:root:basin ID 1979 processed in seconds: 4.696122169494629
+INFO:root:basin ID 1834 processed in seconds: 8.542011976242065
+INFO:root:basin ID 1940 processed in seconds: 6.094851016998291
+INFO:root:basin ID 1840 processed in seconds: 13.447774887084961
+INFO:root:basin ID 1836 processed in seconds: 7.453028202056885
+INFO:root:basin ID 1848 processed in seconds: 76.81412386894226
+INFO:root:basin ID 1844 processed in seconds: 8.458053827285767
+INFO:root:basin ID 1851 processed in seconds: 9.923879861831665
+INFO:root:basin ID 1841 processed in seconds: 7.119256973266602
+INFO:root:basin ID 1957 processed in seconds: 6.171949148178101
+INFO:root:basin ID 1931 processed in seconds: 6.983267068862915
+INFO:root:basin ID 1932 processed in seconds: 9.584530115127563
